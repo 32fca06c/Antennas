@@ -5,19 +5,19 @@
     <radioType technology="ax" frequencyBand="5" mimo="2x2" spatialStreams="2" maxSupportedBandwidth="80MHz"/>
   </accessPointType>
   <accessPointType vendor="Eltex" model="WOP-12ac" >
-    <radioType technology="n" frequencyBand="2.4" mimo="3x3" spatialStreams="3" defaultAntenna24="Eltex ALX18X-051051-00 2.4GHz"/>
-    <radioType technology="ac" frequencyBand="5" mimo="3x3" spatialStreams="3" defaultAntenna5="Eltex ALX18X-091051-00 5GHz"/>
+    <radioType technology="n" frequencyBand="2.4" mimo="3x3" spatialStreams="3" defaultAntenna24="LYNwave ALX18X-051051-00 2.4GHz"/>
+    <radioType technology="ac" frequencyBand="5" mimo="3x3" spatialStreams="3" defaultAntenna5="LYNwave ALX18X-091051-00 5GHz"/>
   </accessPointType>
   <accessPointType vendor="Eltex" model="WOP-2ac" >
-    <radioType technology="n" frequencyBand="2.4" mimo="2x2" spatialStreams="2" defaultAntenna24="Eltex ALX18X-051051-00 2.4GHz"/>
-    <radioType technology="ac" frequencyBand="5" mimo="2x2" spatialStreams="2" defaultAntenna5="Eltex ALX18X-091051-00 5GHz"/>
+    <radioType technology="n" frequencyBand="2.4" mimo="2x2" spatialStreams="2" defaultAntenna24="LYNwave ALX18X-051051-00 2.4GHz"/>
+    <radioType technology="ac" frequencyBand="5" mimo="2x2" spatialStreams="2" defaultAntenna5="LYNwave ALX18X-091051-00 5GHz"/>
   </accessPointType>
   <accessPointType vendor="Eltex" model="WOP-2L" >
-    <radioType technology="n" frequencyBand="2.4" mimo="2x2" spatialStreams="2" defaultAntenna24="Eltex ALX19X-221051-00 2.4GHz"/>
-    <radioType technology="ac" frequencyBand="5" mimo="2x2" spatialStreams="2" defaultAntenna5="Eltex ALX19X-221051-00 5GHz"/>
+    <radioType technology="n" frequencyBand="2.4" mimo="2x2" spatialStreams="2" defaultAntenna24="LYNwave ALX19X-221051-00 2.4GHz"/>
+    <radioType technology="ac" frequencyBand="5" mimo="2x2" spatialStreams="2" defaultAntenna5="LYNwave ALX19X-221051-00 5GHz"/>
   </accessPointType>
   <accessPointType vendor="Eltex" model="WOP-3ax" >
-    <radioType technology="n" frequencyBand="2.4" mimo="2x2" spatialStreams="2" defaultAntenna24="Eltex ALX19X-221051-00 2.4GHz"/>
-    <radioType technology="ax" frequencyBand="5" mimo="2x2" spatialStreams="2" maxSupportedBandwidth="80MHz" defaultAntenna5="Eltex ALX19X-221051-00 5GHz"/>
+    <radioType technology="n" frequencyBand="2.4" mimo="2x2" spatialStreams="2" defaultAntenna24="LYNwave ALX19X-221051-00 2.4GHz"/>
+    <radioType technology="ax" frequencyBand="5" mimo="2x2" spatialStreams="2" maxSupportedBandwidth="80MHz" defaultAntenna5="LYNwave ALX19X-221051-00 5GHz"/>
   </accessPointType>
 </accessPointTypes>
