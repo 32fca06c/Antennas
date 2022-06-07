@@ -9,8 +9,8 @@
     <radioType technology="ac" frequencyBand="5" mimo="3x3" spatialStreams="3"/>
   </accessPointType>
   <accessPointType vendor="Eltex" model="WOP-2ac" >
-    <radioType technology="n" frequencyBand="2.4" mimo="2x2" spatialStreams="2"/>
-    <radioType technology="ac" frequencyBand="5" mimo="2x2" spatialStreams="2"/>
+    <radioType technology="n" frequencyBand="2.4" mimo="2x2" spatialStreams="2" defaultAntenna24="Eltex ALX18X-051051-00 2.4GHz"/>
+    <radioType technology="ac" frequencyBand="5" mimo="2x2" spatialStreams="2" defaultAntenna5="Eltex ALX18X-091051-00 5GHz"/>
   </accessPointType>
   <accessPointType vendor="Eltex" model="WOP-2L" >
     <radioType technology="n" frequencyBand="2.4" mimo="2x2" spatialStreams="2" defaultAntenna24="Eltex ALX19X-221051-00 2.4GHz"/>
