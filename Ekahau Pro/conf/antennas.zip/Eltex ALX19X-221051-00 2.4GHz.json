@@ -594,7 +594,7 @@
     "scaleMin": NaN,
     "scaleMax": NaN
   },
-  "frequencyBand": "FIVE",
+  "frequencyBand": "TWO",
   "accessPointVendorModel": {
     "vendor": {
       "vendor": "Eltex"
