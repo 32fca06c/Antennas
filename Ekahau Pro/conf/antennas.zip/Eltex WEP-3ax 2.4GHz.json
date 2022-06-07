@@ -1,5 +1,5 @@
 {
-  "directional": true,
+  "directional": false,
   "horizontalPlane": {
     "alignment": {},
     "gains": [
